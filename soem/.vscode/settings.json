@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "ethercattype.h": "c",
+        "ethercatbase.h": "c",
+        "stdio.h": "c",
+        "ethercatfoe.h": "c",
+        "ethercatsoe.h": "c",
+        "ethercateoe.h": "c"
+    }
+}

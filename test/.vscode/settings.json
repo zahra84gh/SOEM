@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "ethercat.h": "c",
+        "ethercattype.h": "c"
+    }
+}
